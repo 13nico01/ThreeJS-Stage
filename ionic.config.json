@@ -1,0 +1,7 @@
+{
+  "name": "threejs-stage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
