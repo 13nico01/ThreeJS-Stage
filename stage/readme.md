@@ -28,11 +28,11 @@ This project showcases a 3D scene built using **Three.js** and **Cannon-es**. Th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/<13nico01>/<ThreeJS-Stage>.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <your-repo-name>
+   cd <ThreeJS-Stage>
    ```
 3. Install dependencies:
    ```bash
